@@ -6,9 +6,4 @@
 💻 Estagiária em <span style="color:#1E90FF">Data Analytics</span> na Embraer  
 🌐 Atuo de forma híbrida entre <span style="color:#32CD32">desenvolvimento web</span> e <span style="color:#FFD700">análise de dados</span> 
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-livia-araujo/" alt="LinkedIn"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-livia-araujo/) 
